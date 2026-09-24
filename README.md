@@ -6,3 +6,9 @@ A repository for the development of an NN for STAT41140
 
 Present back to class Tuesday 29/09/26
 
+----------------------------------------
+
+In order to use eumdac data, create a file named Keys.csv and add it to your .gitignore with the format
+
+consumer_key,consumer_secret
+
