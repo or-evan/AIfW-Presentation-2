@@ -1,3 +1,7 @@
 numpy
 matplotlib
 torch
+eumdac
+satpy
+xarray
+netcdf4
