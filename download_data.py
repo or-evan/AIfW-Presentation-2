@@ -35,7 +35,7 @@ COLLECTION_ID = "EO:EUM:DAT:MSG:HRSEVIRI"
 OUTPUT_DIR = "./msg_seviri_data"
 
 start_time = datetime.datetime(2026, 8, 27, 7, 0)
-end_time = datetime.datetime(2026, 8, 29, 7, 0)
+end_time = datetime.datetime(2026, 8, 27, 12, 0)
 
 # Set to number of products to process (set to float('inf') to process all 192)
 MAX_PRODUCTS_TO_PROCESS = 5
