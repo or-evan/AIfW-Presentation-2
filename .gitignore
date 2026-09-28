@@ -1,2 +1,23 @@
-secrets.md
+# Private credentials
 Keys.csv
+keys.csv
+.env
+.env.*
+!.env.example
+
+# Local Python environments
+.venv/
+venv/
+
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Downloaded satellite data and model weights
+/data/ireland_fci/
+/model_cache/
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
