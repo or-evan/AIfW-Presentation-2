@@ -1,4 +1,19 @@
+# Arrays and plots
 numpy
 matplotlib
-torch
+
+# Satellite data and maps
 eumdac
+satpy
+pyresample
+hdf5plugin
+netCDF4
+cartopy
+shapely
+
+# Neural networks
+torch
+torchvision
+
+# Notebook kernel
+ipykernel
